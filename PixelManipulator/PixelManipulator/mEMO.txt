@@ -1,0 +1,33 @@
+﻿
+
+
+some Lines about this project.
+First. We need to consider some stuff.
+We were able to load the image onto the PictureField.
+also, the loaded picture was a png. and when we checked the color of 1 pixel, we saw that it had
+a alpha property in it. I wonder what happens if we try to load an png which has some serious alpha values in it.
+
+- test pixels after loading a low alpha png file.
+TEST OK
+
+next thing. I am thinking about how we should handle the pixeldata. clearly there should be some kind of
+class which we could use to build objects which we could use to handle the pixeldata.
+we could call this class "pixelcontroller".
+
+what kind of things do we want to do with this pixelcontroller thing?
+- load in pixelinformation (argb) from pngs. the pixelinformation should be saved in a 1d array. so we can loop through them in an easy way.
+	NOTE: pixels with a alpha value of 0 do not need to be stored since they are invisible and therefore irrelevant
+	ARRAY contains:
+		color: Color
+		goalpos: point
+		startpos: point
+		currentpos: point
+- there should be an update position method in which we are iterating through the pixels.
+- there should be a thing which translates the pixelpositions back to a bitmap which we can draw on the pictureBox
+
+
+so what now. we got that pixelinformation nicely saved in an array.
+we want to move the pixels. the saved pixelinformation is something like the goalpos for each pixel. that makes sense.
+
+
+

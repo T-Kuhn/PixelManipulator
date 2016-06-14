@@ -1,0 +1,9 @@
+c:\git\PixelManipulator\PixelManipulator\PixelManipulator\bin\Debug\PixelManipulator.exe.config
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\bin\Debug\PixelManipulator.exe
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\bin\Debug\PixelManipulator.pdb
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.csprojResolveAssemblyReference.cache
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.Properties.Resources.resources
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.csproj.GenerateResource.Cache
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.exe
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.pdb
+C:\git\PixelManipulator\PixelManipulator\PixelManipulator\obj\Debug\PixelManipulator.PixelManipulatorForm.resources
